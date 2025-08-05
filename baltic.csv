@@ -2,15 +2,15 @@ Date,Direction,IMO,Claimed Flag,Flag Status,Name
 2025-06-23,Entering,9522324,Malawi,False,SIERRA
 2025-06-30,Leaving,9522324,Malawi,False,SIERRA
 2025-07-02,Leaving,9332810,Malawi,False,PUSHPA
-2025-07-12,Entering,9236004,Panama,Unknown,KATIUSKA
+2025-07-12,Entering,9236004,Panama,False,KATIUSKA
 2025-07-13,Entering,9402471,Malawi,False,DELVIKA
 2025-07-13,Entering,9319686,Malawi,False,HU PO
-2025-07-21,Entering,9014432,Cameroon,Unknown,FALCON
+2025-07-21,Entering,9014432,Cameroon,False,FALCON
 2025-07-21,Leaving,9319686,Malawi,False,HU PO
 2025-07-21,Entering,9236353,Benin,False,BLUE
 2025-07-22,Entering,9282792,Aruba,False,AQUA LIVE
 2025-07-24,Leaving,9402471,Malawi,False,DELVIKA
-2025-07-24,Leaving,9236004,Panama,Unknown,KATIUSKA
+2025-07-24,Leaving,9236004,Panama,False,KATIUSKA
 2025-07-30,Entering,9319674,Malawi,False,NIGHT GLORY
 2025-07-30,Leaving,9014432,Cameroon,False,FALCON
 2025-07-31,Leaving,9282792,Aruba,False,AQUA LIVE
@@ -18,3 +18,5 @@ Date,Direction,IMO,Claimed Flag,Flag Status,Name
 2025-08-01,Entering,9326718,Sierra Leone,Unknown,FULGER
 2025-08-01,Entering,9292981,Aruba,False,NOBLE WALKER
 2025-08-01,Leaving,9236353,Benin,False,BLUE
+2025-08-02,Leaving,9319674,Malawi,False,NIGHT GLORY
+2025-08-02,Leaving,9299886,Panama,False,WALL
