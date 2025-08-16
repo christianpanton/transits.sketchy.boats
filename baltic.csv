@@ -25,4 +25,6 @@ Date,Direction,IMO,Claimed Flag,Flag Status,Name
 2025-08-12,Leaving,9326718,Sierra Leone,False,FULGER
 2025-08-12,Entering,9296406,Malawi,False,RIGEL
 2025-08-12,Entering,9257022,Malawi,False,BOSCA
-2025-08-14,Entering,9308443,Benin,Unknown,INA
+2025-08-14,Entering,9308443,Benin,False,INA
+2025-08-15,Entering,9293117,Benin,False,SUN
+2025-08-16,Leaving,9255244,Aruba,False,WHITE CONDOR I
