@@ -14,7 +14,7 @@ Date,Direction,IMO,Claimed Flag,Flag Status,Name
 2025-07-30,Entering,9319674,Malawi,False,NIGHT GLORY
 2025-07-30,Leaving,9014432,Cameroon,False,FALCON
 2025-07-31,Leaving,9282792,Aruba,False,AQUA LIVE
-2025-07-31,Leaving,9297553,Benin,Unknown,MONTE 1
+2025-07-31,Leaving,9297553,Benin,False,MONTE 1
 2025-08-01,Entering,9326718,Sierra Leone,False,FULGER
 2025-08-01,Entering,9292981,Aruba,False,NOBLE WALKER
 2025-08-01,Leaving,9236353,Benin,False,BLUE
@@ -46,3 +46,6 @@ Date,Direction,IMO,Claimed Flag,Flag Status,Name
 2025-09-02,Leaving,9122473,Aruba,False,DHANU
 2025-09-05,Leaving,9237084,Timor Leste,False,TB ANPING
 2025-09-08,Leaving,9296810,Angola,False,MISSONI
+2025-09-14,Leaving,9297888,Benin,False,WALRUS
+2025-09-15,Entering,9297553,Benin,False,MONTE 1
+2025-09-15,Entering,9368235,Comoros,False,NEVAH
