@@ -20,8 +20,9 @@ Date,Direction,IMO,Claimed Flag,Flag Status,Name
 2025-08-01,Leaving,9236353,Benin,False,BLUE
 2025-08-02,Leaving,9319674,Malawi,False,NIGHT GLORY
 2025-08-02,Leaving,9299886,Panama,False,WALL
-2025-08-07,Leaving,9307815,Benin,Unknown,FLORA 1
+2025-08-07,Leaving,9307815,Benin,False,FLORA 1
 2025-08-07,Entering,9255244,Aruba,False,WHITE CONDOR I
+2025-08-10,Entering,9291250,Comoros,False,CORTEX
 2025-08-12,Leaving,9326718,Sierra Leone,False,FULGER
 2025-08-12,Entering,9296406,Malawi,False,RIGEL
 2025-08-12,Entering,9257022,Malawi,False,BOSCA
@@ -36,15 +37,15 @@ Date,Direction,IMO,Claimed Flag,Flag Status,Name
 2025-08-23,Leaving,9292981,Aruba,False,NOBLE WALKER
 2025-08-23,Leaving,9296406,Malawi,False,RIGEL
 2025-08-24,Entering,9288746,Comoros,False,MARATHON
+2025-08-24,Entering,9297888,Benin,False,WALRUS
 2025-08-26,Entering,9296810,Angola,False,MISSONI
 2025-08-26,Leaving,9259408,Aruba,False,NORA
 2025-08-27,Leaving,9293117,Benin,False,SUN
 2025-08-27,Leaving,9249130,Benin,False,PEACE
 2025-08-28,Leaving,9291250,Comoros,False,CORTEX
-2025-08-28,Leaving,9291250,Comoros,False,CORTEX
 2025-08-29,Leaving,9288746,Comoros,False,MARATHON
 2025-09-02,Leaving,9122473,Aruba,False,DHANU
-2025-09-05,Leaving,9237084,Timor Leste,False,TB ANPING
+2025-09-05,Leaving,9237084,Timor Leste,False,ZYRA
 2025-09-08,Leaving,9296810,Angola,False,MISSONI
 2025-09-10,Entering,9332810,Benin,False,BORACAY
 2025-09-14,Leaving,9297888,Benin,False,WALRUS
