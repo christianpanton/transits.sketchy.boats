@@ -45,7 +45,7 @@ Date,Direction,IMO,Claimed Flag,Flag Status,Name
 2025-08-28,Leaving,9291250,Comoros,False,CORTEX
 2025-08-29,Leaving,9288746,Comoros,False,MARATHON
 2025-09-02,Leaving,9122473,Aruba,False,DHANU
-2025-09-05,Leaving,9237084,Timor Leste,False,ZYRA
+2025-09-05,Leaving,9237084,Timor-Leste,False,ZYRA
 2025-09-08,Leaving,9296810,Angola,False,MISSONI
 2025-09-10,Entering,9332810,Benin,False,BORACAY
 2025-09-14,Leaving,9297888,Benin,False,WALRUS
@@ -57,3 +57,5 @@ Date,Direction,IMO,Claimed Flag,Flag Status,Name
 2025-09-26,Entering,9384069,Benin,False,LION I
 2025-09-27,Entering,9308950,Benin,False,SEASONS I
 2025-09-27,Leaving,9368235,Comoros,False,NEVAH
+2025-10-01,Entering,9383869,Benin,False,SARASWATI
+2025-10-03,Entering,9236353,Timor-Leste,False,BLUE
